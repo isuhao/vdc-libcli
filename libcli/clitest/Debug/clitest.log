@@ -1,0 +1,10 @@
+﻿Build started 2013/8/25 12:45:44.
+     1>Project "C:\work\03-vdc\libcli\clitest\clitest.vcxproj" on node 3 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\clitest.lastbuildstate".
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppClean.targets(74,5): warning : Access to the path 'C:\WORK\03-VDC\LIBCLI\DEBUG\CLITEST.EXE' is denied.
+     1>Done Building Project "C:\work\03-vdc\libcli\clitest\clitest.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06

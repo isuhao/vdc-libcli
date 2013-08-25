@@ -1,0 +1,9 @@
+﻿Build started 2013/8/25 12:45:43.
+     1>Project "C:\work\03-vdc\libcli\libcli\win32\libcli.vcxproj" on node 2 (clean target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\libcli.lastbuildstate".
+     1>Done Building Project "C:\work\03-vdc\libcli\libcli\win32\libcli.vcxproj" (clean target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.15
